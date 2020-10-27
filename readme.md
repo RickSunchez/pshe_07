@@ -52,7 +52,9 @@
 2. в браузере перейти по ссылке *localhost/phpmyadmin*, для входа в панель управления
 3. найти вкладку "импорт": 
 
-<p align="center">![img](images/import.gif)</p>
+<p align="center">
+    <img src="images/import.gif">
+![img](images/import.gif)</p>
 
 4. PROFIT?
 
